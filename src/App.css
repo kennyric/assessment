@@ -1,0 +1,35 @@
+.MainButton{
+  background-color: white;
+  text-align: center;
+  margin: 20px;
+  border-radius: 5px;
+}
+
+.MainButton:hover{
+  background-color: silver;
+}
+
+.App{
+  margin-left: 20;
+  margin-right: 20;
+}
+
+.row{
+  display: flex;
+}
+
+.column {
+  float: left;
+  width: 20%;
+  margin-left: 20%;
+}
+
+.columnRight {
+  float: left;
+  width: 60%;
+}
+
+.dialogCard{
+  width: 50%;
+  margin-left: 25%;
+}
